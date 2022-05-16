@@ -1,10 +1,5 @@
 # Neural_Network_Charity_Analysis_Challenge
 Neural Networks and Deep Learning Models
-# Neural_Network_Charity_Analysis
-Neural Networks and Deep Learning Models
-
-## Environment
-Tensorflow v. 2.4.1
 
 
 ## Purpose
@@ -26,7 +21,7 @@ The EIN and NAME columns will not increase the accuracy of the model and can be 
 4. How many neurons, layers, and activation functions did you select for your neural network model, and why?    
 In the optimized model, layer 1 started with 120 neurons with a relu activation.  For layer 2, it dropped to 80 neurons and continued with the relu activation.  From there, the sigmoid activation seemed to be the better fit for layers 3 (40 neurons) and layer 4 (20 neurons).    
 
-![Pic 1](https://github.com/josepcherian/Neural_Network_Charity_Analysis_Challenge/blob/main/Image/Model%201.PNG)   
+![Pic 1](https://github.com/josepcherian/Neural_Network_Charity_Analysis_Challenge/blob/main/Image/Model%202.PNG)   
 
 5. Were you able to achieve the target model performance?   
 The target for the model was 75%, but the best the model could produce was 72.7%.
